@@ -1,6 +1,6 @@
 package Demo12;
 
-public class Iternary 
+public class ternary 
 {
 
 	public static void main(String[] args)
